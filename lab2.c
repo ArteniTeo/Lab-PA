@@ -4,6 +4,7 @@
 int function(int x){
 	x=x-2;
 	return x;
+	// ana are mere
 }
 
 int main(){
